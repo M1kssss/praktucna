@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Cakes\Chocolate\Hotdogs
+=======
+Fast and Furious\Avatar\Crazy Max
+>>>>>>> movies
